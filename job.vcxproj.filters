@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\数据结构">
+      <UniqueIdentifier>{3bfa5c77-a2d7-456f-990c-c4d0aa01c9b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\笔试">
+      <UniqueIdentifier>{ff103384-4cd3-4784-9511-f58cfa54b342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\数据结构">
+      <UniqueIdentifier>{1380dea6-abf6-47ad-9bc5-98f31f43e72a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\笔试">
+      <UniqueIdentifier>{5a3080f6-c0d7-459a-a2e0-7b755578a43f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="selectionandsort.h">
+      <Filter>头文件\数据结构</Filter>
+    </ClInclude>
+    <ClInclude Include="BiTree.h">
+      <Filter>头文件\数据结构</Filter>
+    </ClInclude>
+    <ClInclude Include="algorithm.h">
+      <Filter>头文件\笔试</Filter>
+    </ClInclude>
+    <ClInclude Include="netease.h">
+      <Filter>头文件\笔试</Filter>
+    </ClInclude>
+    <ClInclude Include="tencent.h">
+      <Filter>头文件\笔试</Filter>
+    </ClInclude>
+    <ClInclude Include="zjtd.h">
+      <Filter>头文件\笔试</Filter>
+    </ClInclude>
+    <ClInclude Include="meituan.h">
+      <Filter>头文件\笔试</Filter>
+    </ClInclude>
+    <ClInclude Include="Grap.h">
+      <Filter>头文件\数据结构</Filter>
+    </ClInclude>
+    <ClInclude Include="offer.h">
+      <Filter>头文件\数据结构</Filter>
+    </ClInclude>
+    <ClInclude Include="oppo.h">
+      <Filter>头文件\笔试</Filter>
+    </ClInclude>
+    <ClInclude Include="huawei.h">
+      <Filter>头文件\笔试</Filter>
+    </ClInclude>
+    <ClInclude Include="sougou.h">
+      <Filter>头文件\笔试</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="selectionandsort.cpp">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithm.cpp">
+      <Filter>源文件\笔试</Filter>
+    </ClCompile>
+    <ClCompile Include="netease.cpp">
+      <Filter>源文件\笔试</Filter>
+    </ClCompile>
+    <ClCompile Include="tencent.cpp">
+      <Filter>源文件\笔试</Filter>
+    </ClCompile>
+    <ClCompile Include="Grap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

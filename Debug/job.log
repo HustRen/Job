@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\文档\vs2015\job\job\offer.h(88): warning C4018: “<”: 有符号/无符号不匹配
+d:\文档\vs2015\job\job\offer.h(149): warning C4018: “<”: 有符号/无符号不匹配
+d:\文档\vs2015\job\job\offer.h(197): warning C4018: “<”: 有符号/无符号不匹配
+d:\文档\vs2015\job\job\offer.h(233): warning C4018: “<”: 有符号/无符号不匹配
+d:\文档\vs2015\job\job\oppo.h(45): warning C4018: “<”: 有符号/无符号不匹配
+d:\文档\vs2015\job\job\oppo.h(48): warning C4018: “<”: 有符号/无符号不匹配
+  job.vcxproj -> D:\文档\VS2015\job\Debug\job.exe
+  job.vcxproj -> D:\文档\VS2015\job\Debug\job.pdb (Full PDB)
